@@ -10,6 +10,10 @@ O ChargeGrid Intelligence é uma proposta de gerenciamento inteligente de recarg
 
 Aplicativo (Thunkable) → API REST → Supabase/PostgreSQL → dados de usuários, veículos, estações, carregadores, tarifas, sessões e energia.
 
+2.1 Arquitetura e Integração dos Componentes
+
+
+
 Os dados energéticos alimentam regras de gerenciamento de demanda, que podem registrar comandos de automação.
 
 3. Fluxo funcional
