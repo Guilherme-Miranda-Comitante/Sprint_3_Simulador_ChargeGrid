@@ -12,6 +12,7 @@ Aplicativo (Thunkable) → API REST → Supabase/PostgreSQL → dados de usuári
 
 2.1 Arquitetura e Integração dos Componentes
 
+<img width="1536" height="1024" alt="Diagrama_Arquitetura_ChargeGrid" src="https://github.com/user-attachments/assets/e2d17861-e673-4b0c-b45c-d9ba89114682" />
 
 
 Os dados energéticos alimentam regras de gerenciamento de demanda, que podem registrar comandos de automação.
